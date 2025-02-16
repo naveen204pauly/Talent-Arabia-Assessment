@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.post {
+  display: flex;
+  flex-direction: column;
+  background-color: #343434;
+  margin-bottom: 2em;
+  border-radius: 8px;
+  height: 160px;
+}
+
+.read-the-docs {
+  color: #888;
+}
